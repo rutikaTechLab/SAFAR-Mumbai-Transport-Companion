@@ -42,4 +42,4 @@ SAFAR is a **desktop transport navigation application** for **Mumbai local train
 - **CustomTkinter** – Modern, responsive UI
 - **Pillow (PIL)** – Image handling
 - **Webbrowser module** – Map & route integration
-"""
+
